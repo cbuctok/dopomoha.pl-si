@@ -1,0 +1,275 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Perutnina Ptuj",
+                "addr": "Letališka cesta 32a, 1000 Ljubljana",
+                "opening_hours": "8am-8pm",
+                "description": "Donation drop point",
+                "phone": "-"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [ [
+                    14.5718810983778,
+                    46.0610258276709,
+                    0.0
+                ]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Duol",
+                "addr": "Kamnik pod Krimom 142",
+                "opening_hours": "7am-5pm",
+                "description": "Donation drop point",
+                "phone": "-"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [ [
+                    14.4031576848836,
+                    45.9641089066774,
+                    0.0
+                ]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Marifarm",
+                "addr": "Minařikova ulica 8, 2000 Maribor",
+                "opening_hours": "6am-6pm",
+                "description": "Donation drop point",
+                "phone": "-"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [ [
+                    15.6649899161108,
+                    46.5320956910667,
+                    0.0
+                ]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Perutnina Ptuj",
+                "addr": "Potrčeva cesta 10, Ptuj",
+                "opening_hours": "8am-3pm",
+                "description": "Donation drop point",
+                "phone": "-"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [ [
+                    15.8747658272227,
+                    46.4225661564219,
+                    0.0
+                ]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Karitas Koper",
+                "addr": "Skalniška cesta 1, 5250 Solkan",
+                "opening_hours": "-",
+                "description": "Social facility",
+                "phone": "053300233"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [ [
+                    13.659619036099864,
+                    46.04727120953113,
+                    0.0
+                ]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Karitas Maribor, Ambulanta",
+                "addr": "Strossmayerjeva ulica 15, 2000 Maribor",
+                "opening_hours": "-",
+                "description": "Social facility",
+                "phone": "031478386"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [ [
+                    15.618478602157232,
+                    46.66175471401047,
+                    0.0
+                ]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Škofijska karitas Murska Sobota",
+                "addr": "Gregorčičeva ulica 4a, 9000 Murska Sobota",
+                "opening_hours": "-",
+                "description": "Social facility",
+                "phone": "025381150"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [ [
+                    16.1548149206075,
+                    46.73606514341707,
+                    0.0
+                ]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Župnijska Karitas Maribor - Sv. Janez Bosko",
+                "addr": "Engelsova ulica 66, 2000 Maribor",
+                "opening_hours": "-",
+                "description": "Social facility",
+                "phone": "-"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [ [
+                    15.6202091600156,
+                    46.604645137195185,
+                    0.0
+                ]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Škofijska karitas Celje",
+                "addr": "Muzejski trg 8, 3000 Celje",
+                "opening_hours": "-",
+                "description": "Social facility",
+                "phone": "059080370"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [ [
+                    15.253530880416772,
+                    46.275306728232074,
+                    0.0
+                ]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Škofijska karitas ljubljanske Nadškofije",
+                "addr": "Poljanska cesta 2, 1000 Ljubljana",
+                "opening_hours": "-",
+                "description": "Social facility",
+                "phone": "014392130"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [ [
+                    14.524294301923591,
+                    46.08703582423351,
+                    0.0
+                ]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Slovenska karitas",
+                "addr": "Kristanova ulica 1, 1000 Ljubljana",
+                "opening_hours": "-",
+                "description": "Social facility",
+                "phone": "013005960"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [ [
+                    14.51090839245754,
+                    46.050315989870285,
+                    0.0
+                ]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Škofijska karitas Ljubljana",
+                "addr": "Hudovernikova ulica 6, 1000 Ljubljana",
+                "opening_hours": "-",
+                "description": "Social facility",
+                "phone": "012327974"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [ [
+                    14.517086044750174,
+                    46.04644012190888,
+                    0.0
+                ]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Župnijska karitas Novo mesto - Kapitelj",
+                "addr": "Kapiteljska ulica 4, 8000 Novo mesto",
+                "opening_hours": "-",
+                "description": "Social facility",
+                "phone": "073844429"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [ [
+                    15.166938736891773,
+                    45.806011202283685,
+                    0.0
+                ]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Škofijska karitas Novo mesto",
+                "addr": "Smrečnikova ulica 60, 8000 Novo mesto",
+                "opening_hours": "-",
+                "description": "Social facility",
+                "phone": "040862303"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [ [
+                    15.163758126221138,
+                    45.79631023251032,
+                    0.0
+                ]]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Embassy of Ukraine",
+                "addr": "Mivka 27, 1000 Ljubljana",
+                "opening_hours": "-",
+                "description": "Consulate",
+                "phone": "014210602"
+            },
+            "geometry": {
+                "type": "MultiPoint",
+                "coordinates": [ [
+                    14.501542111869172,
+                    46.03989728179028,
+                    0.0
+                ]]
+            }
+        }
+    ]
+}
